@@ -5,15 +5,15 @@
     "subtitle": "CyPwn's Exclusive IPA Library",
     "iconURL": "https://raw.githubusercontent.com/falcontomto/altstore_repos/refs/heads/main/logo.png",
     "website": "https://github.com/falcontomto",
-    "tintColor": "FFC300",
+    "tintColor": "CF9E6B",
     "apps": [
         {
             "name": "YouTube Plus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Yat To",
             "localizedDescription": "YouTube without junks",
-            "iconURL": "https://raw.githubusercontent.com/falcontomto/altstore_repos/refs/heads/Resources/com.google.ios.youtube/logo.png",
-            "tintColor": "FFC300",
+            "iconURL": "https://raw.githubusercontent.com/falcontomto/altstore_repos/refs/heads/main/Resources/com.google.ios.youtube/logo.png",
+            "tintColor": "FF0000",
             "versions": [
                 {
                     "version": "5.2b4",
