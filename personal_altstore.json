@@ -16,6 +16,13 @@
             "tintColor": "FF0000",
             "versions": [
                 {
+                    "version": "21.12.4",
+                    "date": "2026-03-23",
+                    
+                    "downloadURL": "https://github.com/falcontomto/YTLite/releases/download/ytp-7/YouTubePlus_5.2b4.ipa",
+                    "size": 129285575
+                },
+                {
                     "version": "21.07.4",
                     "date": "2026-02-23",
                     
@@ -28,13 +35,6 @@
                     
                     "downloadURL": "https://github.com/falcontomto/YTLite/releases/download/ytp-4/YouTubePlus_5.2b4.ipa",
                     "size": 128037204
-                },
-                {
-                    "version": "21.12.4",
-                    "date": "2026-03-23",
-                    
-                    "downloadURL": "https://github.com/falcontomto/YTLite/releases/download/ytp-7/YouTubePlus_5.2b4.ipa",
-                    "size": 129285575
                 },
             ]
         },
