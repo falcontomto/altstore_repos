@@ -16,12 +16,6 @@
             "tintColor": "FF0000",
             "versions": [
                 {
-                    "version": "21.20.4",
-                    "date": "2026-05-21",
-                    "downloadURL": "https://github.com/falcontomto/YTLite/releases/download/ytp-8/YouTubePlus_5.2.1.ipa",
-                    "size": 134309025
-                },
-                {
                     "version": "21.12.4",
                     "date": "2026-03-23",
                     
